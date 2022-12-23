@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dcechano
 - 👀 I’m interested in Java, Python and Chess!
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning HLS P
 - 💞️ I’m looking to collaborate on Runelite and Streamlink
 - 📫 How to reach me dcechano@emich.edu
 
