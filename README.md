@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dcechano
-- 👀 I’m interested in Java, Python and Chess!
-- 🌱 I’m currently learning HLS P
-- 💞️ I’m looking to collaborate on Runelite and Streamlink
+- 👀 I’m interested in C and Rust!
+- 🌱 I’m currently learning about compilers, interpreters and emulators/VMs
+- 💞️ I’m looking to collaborate uutils/coreutils, and rust-lang/rust
 - 📫 How to reach me dcechano@emich.edu
 
 <!---
